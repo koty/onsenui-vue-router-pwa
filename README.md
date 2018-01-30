@@ -1,5 +1,11 @@
 # Onsen UI + Vue + Vue Router + Axios PWA Starter Project
 
+***
+This project is forked from https://github.com/superpikar/onsenui-vue-router-pwa,
+and is for verification of router-view and tabbar.
+It looks like tab transition animation is disabled... 
+***
+
 ## Information 
 Please read carefully before use this project starter
 
